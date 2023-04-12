@@ -1,7 +1,7 @@
 # flower-clf
 Flower classification using CNNs.
 
-The aim of this exercise is to code a CNN that provides the good results on a classification task. The idea is to test different tools and to measure their impact on the provided dataset.
+The aim of this exercise is to code a CNN that provides good results on a classification task. The idea is to test different tools and to measure their impact on the provided dataset.
 
 All code can be found inside `flower-classification.ipynb`. Data used is a subset of popular flower datasets.
 
